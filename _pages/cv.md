@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-![CV](/files/CV.pdf "CV")
+<embed src="https://chasechivers.github.io/files/CV.pdf" type="application/pdf" />
