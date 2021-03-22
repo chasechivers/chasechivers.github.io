@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Published works
+====
+
+_last updated 3/22/2021_
 
 **Chivers, C.J.**, Buffo, J.J., Schmidt, B.E. (2021) “Thermal and chemical evolution of small, shallow water bodies in Europa’s ice shell.” Journal of Geophysical Research: Planets. _accepted_
 
