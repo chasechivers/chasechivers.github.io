@@ -14,4 +14,4 @@ The surface of Europa's outer icy shell is littered with dark circular features,
 
 ![anim_3_pnel_lightnslow_2](https://user-images.githubusercontent.com/47040149/112193537-5af5f080-8bde-11eb-8698-86a0bf8a8d32.gif)
 
-Above is an animation from our numerical modeling results, tracking the thermal evolution (left), liquid water (middle; blue is water, white is ice), and the concentration of salt (right; ppt is gram salt per kilogram of solution, or 10 times the percent by weight). 
+Above is an animation from our numerical modeling results (Chivers et al., 2021), tracking the thermal evolution (left), liquid water (middle; blue is water, white is ice), and the concentration of salt (right; ppt is gram salt per kilogram of solution, or 10 times the percent by weight). 
