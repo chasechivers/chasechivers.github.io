@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Published Works"
-permalink: /publications/
-author_profile: true
----
-
 _last updated 06/27/2022_
 
 # First-Author
