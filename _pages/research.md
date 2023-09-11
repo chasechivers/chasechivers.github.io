@@ -32,4 +32,4 @@ If these large chaos features form by these melt lenses and are among the younge
 
 ![Lens evolution](https://raw.githubusercontent.com/chasechivers/chasechivers.github.io/master/images/LensEvolution_combined.png)
 
-This work is currently in review at the Journal of Geophysical Research: Planets, but [an abstract can be seen here](https://www.hou.usra.edu/meetings/lpsc2022/pdf/2194.pdf). 
+[You can read about this work here](https://doi.org/10.3847/PSJ/acea75)
