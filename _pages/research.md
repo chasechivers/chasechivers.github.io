@@ -20,13 +20,15 @@ We found that they are relatively short lived on geological timescales, with liq
 ![Results animation](https://user-images.githubusercontent.com/47040149/112193537-5af5f080-8bde-11eb-8698-86a0bf8a8d32.gif)
 
 Above is an animation of results from our study where the top of each panel is Europa's surface and the bottom is the bottom of Europa's brittle ice layer and the _x_-axis denotes the distance from the center of the reservoir. This animation illustrates of the evolution of the temperature (left panel), water content (middle panel; blue is water, white is ice), and salt content (right panel; concentration is in parts-per-thousand, or grams of salt per kilogram of solution) of a salt water reservoir in Europa's ice shell.
- 
+
+
+
  # Stable brine layers beneath Europa's chaos terrain
  
 ![Conamara Chaos](https://photojournal.jpl.nasa.gov/jpeg/PIA03002.jpg)
 The formation of Europa's chaos terrain, large regions where the surface has completely broken up and exemplified by Conamara Chaos seen above ([NASA photojounral image PIA03002](https://photojournal.jpl.nasa.gov/catalog/PIA03002)), has puzzled planetary scientists since the Galileo mission arrived. One hypothesis proposes that salty ices allow the interior of the ice shell to melt large volumes of water just a few kilometers below the surface creating a "melt lens." How long does this melt lens last in the subsurface and how does it evolve over time? We update the numerical model from the previous work to investigate.
 
-We found that in a lower bound, a large melt lens without any salt would last at least 175,000 years beneath the surface -- almost 30,000 years longer than the longest lasting small reservoir that includes salt. When the melt lens includes even a small concentration of salts (less than 1% by weight), the process of cryoconcentration of salts will not only make the remaining melt highly saline, but also stall freezing for potentially 100s of thousands of years (see the figure below). This could mean that highly saline brine layers are stable against freezing a few km below the surface on geological time scales.
+We found that, at a minimum, a large melt lens without any salt would last at least 175,000 years beneath the surface -- almost 30,000 years longer than the longest lasting small reservoir that includes salt. When the melt lens includes even a small concentration of salts (less than 1% by weight), the process of cryoconcentration of salts will not only make the remaining melt highly saline, but also stall freezing for potentially 100s of thousands of years (see the figure below). This could mean that highly saline brine layers are stable against freezing a few km below the surface on geological time scales.
 
 If these large chaos features form by these melt lenses and are among the youngest features on the surface as the evidence suggest, then we suggest that missions to Europa such as [NASA’s Europa Clipper](https://europa.nasa.gov/) or [ESA’s JUICE](https://sci.esa.int/web/juice) will find evidence for contemporaneous brine layers beneath chaos. Moreover, as these potential brine layers are relatively close to the surface they may be a realistic target to sample a potentially habitable environment for future missions planning to drill (or melt) through the ice shell.
 
