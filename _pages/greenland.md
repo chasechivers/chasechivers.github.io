@@ -15,4 +15,4 @@ We find MWP events occurs in every simulation, associated with the collapse of t
 
 Below is an animation from one of our simulations showing how the ice thickness of the GrIS changes as we melt it from the margins very slowly (_very slowly_, it takes about 100,000 years before something "exciting" happens). The colored lines point on the smaller plots on the right which show three of these outlet glaciers that are important to saddle collapse.
 
-![Results animation](https://raw.githubusercontent.com/chasechivers/chasechivers.github.io/master/files/AGU22trans_movie_new_atr=2.5e-5.gif)
+![Greenland Ice Sheet](https://raw.githubusercontent.com/chasechivers/chasechivers.github.io/master/files/AGU22trans_movie_new_atr=2.5e-5.gif)
