@@ -13,6 +13,6 @@ The current Greenland Ice Sheet (GrIS) is multi-domed, with a large dome in cent
 
 We find MWP events occurs in every simulation, associated with the collapse of the pre-existing saddle and a much smaller saddle that forms and collapses within a simulation, each contributing roughly 1/2 m (nearly 2 ft) of sea level. When either of these saddles collapse appears to be controlled largely by how fast we make melting occur at the surface and deep, fast-moving outlet glaciers. These outlet glaciers control how much ice from the interior (where most of the ice resides) is added to the ocean, ultimately controlling sea level rise from the GrIS. Some of these outlet glaciers are more senstive to faster melting which cause that original saddle to collapase relatively quickly (within 2,000 years). 
 
-Below is an animation from one of our simulations showing how the ice thickness of the GrIS changes as we melt it over time. The colored lines point on the smaller plots on the right which show three of these outlet glaciers that are important to saddle collapse.
+Below is an animation from one of our simulations showing how the ice thickness of the GrIS changes as we melt it from the margins very slowly (_very slowly_, it takes about 100,000 years before something "exciting" happens). The colored lines point on the smaller plots on the right which show three of these outlet glaciers that are important to saddle collapse.
 
 ![Results animation](https://raw.githubusercontent.com/chasechivers/chasechivers.github.io/master/files/AGU22trans_movie_new_atr=2.5e-5.gif)
