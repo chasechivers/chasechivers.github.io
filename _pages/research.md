@@ -12,7 +12,7 @@ Planetary
   <a href="https://chasechivers.github.io/europa">
     <img src="https://europa.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--301094af94ef952fb95121c0ab22bef7d322862c/pia19048.jpg" alt="Europa rising" />
   </a>
-  <figcaption>A view of Europa's surface from Galileo. <a href="https://europa.nasa.gov/resources/29/europas-stunning-surface/">NASA</a></figcaption>
+  <figcaption>A view of Europa's surface from Galileo. Below the small, dark dots ("freckles") may be reservoirs of liquid water. <a href="https://europa.nasa.gov/resources/29/europas-stunning-surface/">NASA</a></figcaption>
   
 </figure>
 
