@@ -8,6 +8,9 @@ redirect_from:
   - /inthemedia.html
 ---
 
+### 2021 Phys.org: [Ice shell thickness reveals water temperature on ocean worlds](https://phys.org/news/2024-02-ice-shell-thickness-reveals-temperature.amp)
+---
+
 ### 2021 WIRED: [Astronomers Get Ready to Probe Europa’s Hidden Ocean for Life](https://www.wired.com/story/astronomers-get-ready-to-probe-europas-hidden-ocean-for-life/)
 ---
 
